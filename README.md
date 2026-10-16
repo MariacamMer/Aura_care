@@ -2,7 +2,7 @@
 
 **Equipo:** Grupo 9
 - Bryan Silva Velasquez — Universidad del Bío-Bío, Ingeniería Civil en Informática
-- María Camila Mercado — Universidad de Atacama, Ingeniería en Alimentos
+- María Camila Mercado — Universidad de Atacama, Ingeniería en Informatica
 - Daniel Jesús Huaraca Reyes — Universidad Peruana de Ciencias Aplicadas, Ingeniería Mecatrónica
 
 **Misiones:** M1 (estrés y ansiedad), M5 (estigma / baja búsqueda de ayuda), M6 (barreras de acceso)
