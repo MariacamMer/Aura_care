@@ -1,0 +1,7 @@
+datos/
+cache_llm.json
+__pycache__/
+*.pyc
+.env
+*.key
+.ipynb_checkpoints/
