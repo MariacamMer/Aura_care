@@ -104,4 +104,4 @@ aura_care/
 ```
 
 ## Video demostrativo
-*[COMPLETAR: enlace YouTube no listado / Drive]*
+https://drive.google.com/file/d/1HGHPZsUPHV_cZJ97QDXSkNjATBSwxPmT/view?usp=sharing
