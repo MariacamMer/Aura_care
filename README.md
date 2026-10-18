@@ -104,4 +104,4 @@ aura_care/
 ```
 
 ## Video demostrativo
-https://drive.google.com/file/d/1HGHPZsUPHV_cZJ97QDXSkNjATBSwxPmT/view?usp=sharing
+https://drive.google.com/file/d/1JDRxd-j-Pyb4pOzPINztu0skLFjNTrNq/view
